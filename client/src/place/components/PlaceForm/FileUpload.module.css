@@ -1,0 +1,8 @@
+.container {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.previewChip {
+  max-width: 250px;
+}

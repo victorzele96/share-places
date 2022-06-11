@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  /* background-image: url('./background-rns.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+#main-content {
+  margin-top: 100px;
+}
+
+.list-div {
+  overflow: hidden;
+  overflow-y: auto;
+  margin-top: 50px;
+}
+
+#blur-on-select {
+  margin-left: 30px;
+  max-height: 40px;
+  height: 10px;
+}
+
+#list {
+  height: 1080px;
+}
+
+#favorites {
+  height: 1040px;
+}
+
+/* @media screen and (min-width: 800px) {
+  ::-webkit-scrollbar {
+    width: 20px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background-color: #e4e4e4;
+    border-radius: 100px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 100px;
+    border: 4.5px solid transparent;
+    background-clip: content-box;
+    background-color: #1976d2b9;
+  }
+} */

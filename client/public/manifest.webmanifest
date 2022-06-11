@@ -1,0 +1,17 @@
+{
+  "short_name": "S-Your-P",
+  "name": "Share your place",
+  "description": "Share your favorite places aplication",
+  "icons": [
+    {
+      "src": "/images/home-pin.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "scope": "/",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
